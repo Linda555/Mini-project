@@ -1,4 +1,4 @@
-# Mini-project
+# Mini-project/Mental Health
 
 In this project, factors influencing mental health are investigated. The primary focus is on a variable called Severity, where participants ranked as low, medium, or high in perceived mental health after visiting a healthcare specialist. 
 

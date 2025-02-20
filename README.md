@@ -1,6 +1,6 @@
 # Mini-project
 
-In this project, the key factors influencing mental health are investigated. The primary focus is on a variable called Severity, where participants ranked as low, medium, or high in perceived mental health after visiting a healthcare specialist. 
+In this project, factors influencing mental health are investigated. The primary focus is on a variable called Severity, where participants ranked as low, medium, or high in perceived mental health after visiting a healthcare specialist. 
 
 The dataset 
 Includes demographic information (age, gender, occupation), lifestyle factors (sleep duration, physical activity), and psychological indicators (stress levels, consultation history).
